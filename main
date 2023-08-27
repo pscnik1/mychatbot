@@ -1,8 +1,1 @@
-echo "# mychatbot" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/pscnik1/mychatbot.git
-git push -u origin main
 $ git clone https://github.com/shreyashankar/gpt3-sandbox.git
